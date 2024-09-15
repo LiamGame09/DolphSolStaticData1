@@ -515,6 +515,40 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0/05/0riginCollection.gif",
             "rarity": 6500000,
             "cornerColor": 1119538
+        },
+        "16668035": {
+            "name": "Savior",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/a/a4/Savior_Collection.gif",
+            "rarity": 3200000,
+            "cornerColor": 2232080
+        },
+        "10338303": {
+            "name": "Overseer",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0/0b/Overseer-collection.gif",
+            "rarity": 3200000,
+            "cornerColor": 4281700
+        },
+        "12156490": {
+            "name": "ATLAS",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/a/aa/AtlasIngame.gif",
+            "rarity": 360000000,
+            "biome": {"name": "SandStorm", "factor":4}
+        },
+        "16675153": {
+            "name": "APOSTOLOS",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/b/be/ApostolosIngameNew.gif",
+            "rarity": 444000000
+        },
+        "13639203": {
+            "name": "MATRIX : OVERDRIVE",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/4/4a/Overdrive.jpg",
+            "rarity": 503000000
+        },
+        "3363325": {
+            "name": "AEGIS",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/2/29/AegisIngame.gif",
+            "rarity": 850000000,
+            "cornerColor": 263441
         }
     }
 }]
